@@ -1,0 +1,15 @@
+{
+  "manifestVersion": 1,
+  "appID": "cli_a5050a5dfbf85013",
+  "appType": "docs-addon",
+  "blockTypeID": "blk_658fb6405ac0801cfbea0817",
+  "projectName": "bs-datar-feishu",
+  "contributes": {
+    "addPanel": {
+      "initialHeight": 30,
+      "view": "index.html",
+      "useInteraction": true
+    }
+  },
+  "url": "https://n0spstt0vlz.feishu.cn/docx/NLaPdVWzvoYDgUxINvvc5Bwlnod"
+}
